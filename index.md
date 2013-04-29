@@ -1,4 +1,5 @@
-<img src="http://infolab.stanford.edu/db_pages/img/shin_s.jpg"
+<img orig-src="http://infolab.stanford.edu/db_pages/img/shin_s.jpg"
+    src="jaeho.jpg"
     alt="" style="float:left; margin:10px 20px 10px 10px;">
 Hi, I'm Jaeho Shin, a second-year PhD student in [Computer Science at Stanford University][Stanford CS].
 <br>
