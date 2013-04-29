@@ -11,8 +11,8 @@ window.onload =
 window.onresize =
 function resize() {
     document.body.style.marginTop =
-        (RATIO * (window.innerHeight
-                 - document.getElementsByTagName("p")[0].offsetHeight)) + "px";
+        Math.max(38, (RATIO * (window.innerHeight
+                 - document.getElementsByTagName("p")[0].offsetHeight))) + "px";
     //console.log(document.body.style.marginTop);
 };
 //-->
