@@ -1,0 +1,3 @@
+let $WWWROOT = expand("<sfile>:h")
+map <Space><Space> :!$WWWROOT/update.sh preview<CR><CR>
+map <Space><CR> :!$WWWROOT/update.sh

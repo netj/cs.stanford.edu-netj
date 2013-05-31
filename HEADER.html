@@ -1,3 +1,8 @@
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' type='text/css'>
+<!--
+<link href='https://fonts.googleapis.com/css?family=Crimson+Text:400,600,700' rel='stylesheet' type='text/css'>
+font-family: 'Crimson Text', serif;
+-->
 <style>
 /* See: http://identity.stanford.edu/web-toolkit/color */
 body {
@@ -5,6 +10,17 @@ body {
     background-color: #fbfbf9;
     margin: 38px auto 0;
     width: 618px;
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body > section {
+    text-align: justify;
+}
+
+address {
+    font-size: 75%;
+    text-align: right;
 }
 
 a:link, a:visited {
@@ -26,7 +42,7 @@ window.onresize =
 function resize() {
     document.body.style.marginTop =
         Math.max(38, (RATIO * (window.innerHeight
-                 - document.getElementsByTagName("p")[0].offsetHeight))) + "px";
+                 - document.getElementsByTagName("section")[0].offsetHeight))) + "px";
     //console.log(document.body.style.marginTop);
 };
 //-->

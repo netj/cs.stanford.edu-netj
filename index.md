@@ -1,29 +1,48 @@
 <img orig-src="http://infolab.stanford.edu/db_pages/img/shin_s.jpg"
-    src="jaeho.jpg"
+    larger-src="jaeho.infolab-2013.900x1200.jpg"
+    src="jaeho.infolab-2013.180x240.jpg"
     alt="" style="float:left; margin:10px 20px 10px 10px;">
-Hi, I'm Jaeho Shin, a second-year PhD student in [Computer Science at Stanford University][Stanford CS].
-<br>
-[Jennifer Widom][] is my advisor, and the wonderful [InfoLab][] members inspire me.
-<br>
-You can find me at [Gates 430][], or reach me via <myFirstName.LastName@Stanford.EDU>.
-<br>
-<br style="clear:both;">
-My research interests are in *Graph Data Management and Query Processing* and *Managing Computational Experiments*.
-<br>
-<br style="clear:both;">
-For more info,
-please check out my [old page at ROPAS][ropas page] for the moment,
-or [my GitHub page][my github] for some code I've been working on.
-<br>
-<br>
-~Jaeho
-<small><small>(Apr 29, 2013)</small></small>
+
+I'm **Jaeho Shin**, a second-year PhD student in [Computer Science at Stanford University][Stanford CS].
+I work closely with [Jennifer Widom][] and [Andreas Paepcke][], and other [InfoLab][] members keep me inspired.
+You can find me at [Gates 430][], or reach me via email: <small><tt><myFirstName.LastName@Stanford.EDU></tt></small>
+
+My research interests are in technology that enables more productive **Exploratory Data Analysis** in the era of “Big data”.
+Particularly, *processing subgraph matching queries with distributed systems*, and
+creating *interactive tools for managing computational experiments*
+are what I'm working on these days.
+Current and past projects relevant to these are
+[SmallGraphs][] and
+[ExpKit][].
+
+In my spare time, I enjoy writing code for fun.  Some of my creations are
+[iMarguerite][],
+[libzygote][],
+[BuildKit][],
+[bpm][],
+and [my dotfiles][dotfiles].
+Check out [my GitHub page][my github] for other things as well.
+
+For more info, please refer to my [old homepage at ROPAS][ropas page] for the moment.
+
+<address>May 31, 2013</address>
 
 [Stanford CS]: http://cs.stanford.edu/
 [InfoLab]: http://infolab.stanford.edu/
-[Jennifer Widom]: http://infolab.stanford.edu/~widom/
-
-[my github]: http://github.com/netj
 [Gates 430]: http://campus-map.stanford.edu/?id=07-450
 
+[Jennifer Widom]: http://infolab.stanford.edu/~widom/
+[Andreas Paepcke]: http://infolab.stanford.edu/~paepcke/
+
+[SmallGraphs]: https://github.com/netj/SmallGraphs/#readme
+[ExpKit]: http://netj.github.io/expkit/
+
+[iMarguerite]: http://mybus.stanford.edu/
+[libzygote]: https://github.com/netj/libzygote#readme
+[BuildKit]: https://github.com/netj/buildkit#readme
+[bpm]: https://github.com/netj/bpm#readme
+[dotfiles]: https://github.com/netj/dotfiles#readme
+[my github]: https://github.com/netj
+
 [ROPAS page]: http://ropas.snu.ac.kr/~netj/
+
