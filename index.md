@@ -1,7 +1,8 @@
-<img orig-src="http://infolab.stanford.edu/db_pages/img/shin_s.jpg"
-    larger-src="jaeho.infolab-2013.900x1200.jpg"
+<div id="photo"><img alt=""
+    thumb-src="http://infolab.stanford.edu/db_pages/img/shin_s.jpg"
+    large-src="jaeho.infolab-2013.900x1200.jpg"
     src="jaeho.infolab-2013.180x240.jpg"
-    alt="" style="float:left; margin:10px 20px 10px 10px;">
+    ></div>
 
 I'm **Jaeho Shin**, a second-year PhD student in [Computer Science at Stanford University][Stanford CS].
 I work closely with [Jennifer Widom][] and [Andreas Paepcke][], and other [InfoLab][] members keep me inspired.

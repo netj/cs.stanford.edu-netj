@@ -18,6 +18,23 @@ body > section {
     text-align: justify;
 }
 
+#photo {
+    width: 180px; height: 240px;
+    margin: 10px 20px 10px 10px;
+    float: left;
+}
+/* for hi-DPI screens: e.g., iPhone4/4S, iPad (3rd-gen) */
+@media only screen and (-webkit-min-device-pixel-ratio: 2)
+     , only screen and (min--moz-device-pixel-ratio: 2)
+     , only screen and (-o-min-device-pixel-ratio: 2/1)
+     , only screen and (min-device-pixel-ratio: 2) {
+#photo img { opacity: 0; }
+#photo {
+    background-image: url(jaeho.infolab-2013.360x480.jpg);
+    background-size: 180px auto;
+}
+}
+
 address {
     font-size: 75%;
     text-align: right;
