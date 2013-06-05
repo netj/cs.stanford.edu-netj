@@ -24,9 +24,10 @@ In my spare time, I enjoy writing code for fun.  Some of my creations are
 and [my dotfiles][dotfiles].
 Check out [my GitHub page][my github] for other things as well.
 
-For more info, please refer to my [old homepage at ROPAS][ropas page] for the moment.
+For more info, please refer to my [old homepage at ROPAS][ropas page] and
+[Google Scholar page][] for the moment.
 
-<address>May 31, 2013</address>
+<address>Jun 05, 2013</address>
 
 [Stanford CS]: http://cs.stanford.edu/
 [InfoLab]: http://infolab.stanford.edu/
@@ -46,4 +47,4 @@ For more info, please refer to my [old homepage at ROPAS][ropas page] for the mo
 [my github]: https://github.com/netj
 
 [ROPAS page]: http://ropas.snu.ac.kr/~netj/
-
+[Google Scholar page]: http://scholar.google.com/citations?user=d8SSQS4AAAAJ
