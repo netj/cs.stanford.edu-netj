@@ -27,7 +27,7 @@ Check out [my GitHub page][my github] for other things as well.
 For more info, please refer to my [old homepage at ROPAS][ropas page] and
 [Google Scholar page][] for the moment.
 
-<address>Jun 05, 2013</address>
+<address><$ date -r index.md +'%b %e, %Y' $></address>
 
 [Stanford CS]: http://cs.stanford.edu/
 [InfoLab]: http://infolab.stanford.edu/
