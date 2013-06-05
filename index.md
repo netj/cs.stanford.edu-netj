@@ -28,7 +28,7 @@ For more info, please refer to my [old homepage at ROPAS][ropas page] and
 [Google Scholar page][] for the moment.
 
 <address><time datetime="<$ date -r index.md +'%FT%T%:z'
-    $>"><$ date -r index.md +'%b %e, %Y' $></time></address>
+    $>"><$ LC_ALL=C date -r index.md +'%b %e, %Y' $></time></address>
 
 [Stanford CS]: http://cs.stanford.edu/
 [InfoLab]: http://infolab.stanford.edu/

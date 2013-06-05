@@ -21,6 +21,7 @@ perl >$name.md.tmp -Mstrict -e '
     }
 ' <index.md
 marked $name.md.tmp
+rm -f $name.md.tmp
 echo '</section>'
 cat FOOTER.html
 echo '</body></html>'
