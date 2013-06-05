@@ -25,3 +25,4 @@ echo '</section>'
 cat FOOTER.html
 echo '</body></html>'
 } >$name.html
+echo Published $name.html
