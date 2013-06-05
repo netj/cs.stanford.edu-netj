@@ -1,0 +1,15 @@
+#!/bin/sh
+#
+# An example hook script to prepare a packed repository for use over
+# dumb transports.
+#
+# To enable this hook, rename this file to "post-update".
+
+git update-server-info
+
+# See: http://stackoverflow.com/a/3838796/390044
+export GIT_DIR=$PWD
+cd ..
+export GIT_WORK_TREE=$PWD
+git reset --hard HEAD --
+./update.sh
