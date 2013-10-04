@@ -4,7 +4,7 @@
     src="jaeho.infolab-2013.180x240.jpg"
     ></div>
 
-I'm **Jaeho Shin**, a second-year PhD student in [Computer Science at Stanford University][Stanford CS].
+I'm **Jaeho Shin**, a third-year PhD student in [Computer Science at Stanford University][Stanford CS].
 I work closely with [Jennifer Widom][] and [Andreas Paepcke][], and other [InfoLab][] members keep me inspired.
 You can find me at [Gates 430][], or reach me via email: <small><tt><myFirstName.LastName@Stanford.EDU></tt></small>
 
