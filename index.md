@@ -9,8 +9,9 @@ I work closely with [Jennifer Widom][] and [Andreas Paepcke][], and other [InfoL
 You can find me at [Gates 430][], or reach me via email: <small><tt><myFirstName.LastName@Stanford.EDU></tt></small>
 
 My research interests are in technology that enables more productive **Exploratory Data Analysis** in the era of “Big data”.
-Particularly, *processing subgraph matching queries with distributed systems*, and
-creating *interactive tools for managing computational experiments*
+Particularly,
+creating *interactive tools for managing computational experiments*, and
+*processing subgraph matching queries with distributed systems*
 are what I'm working on these days.
 Current and past projects relevant to these are
 [3X][] and [SmallGraphs][].
