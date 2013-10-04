@@ -13,8 +13,7 @@ Particularly, *processing subgraph matching queries with distributed systems*, a
 creating *interactive tools for managing computational experiments*
 are what I'm working on these days.
 Current and past projects relevant to these are
-[SmallGraphs][] and
-[ExpKit][].
+[3X][] and [SmallGraphs][].
 
 In my spare time, I enjoy writing code for fun.  Some of my creations are
 [iMarguerite][],
@@ -37,8 +36,8 @@ For more info, please refer to my [old homepage at ROPAS][ropas page] and
 [Jennifer Widom]: http://infolab.stanford.edu/~widom/
 [Andreas Paepcke]: http://infolab.stanford.edu/~paepcke/
 
+[3X]: http://netj.github.io/3x/
 [SmallGraphs]: https://github.com/netj/SmallGraphs/#readme
-[ExpKit]: http://netj.github.io/expkit/
 
 [iMarguerite]: http://mybus.stanford.edu/
 [libzygote]: https://github.com/netj/libzygote#readme
