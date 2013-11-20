@@ -12,7 +12,7 @@ cd "$(dirname "$0")"
 echo '<!DOCTYPE html>'
 echo '<html><head><meta charset="utf-8"><title>'"$title"'</title>'
 cat HEADER.html
-echo '</head><body><section>'
+echo '</head><body lang="en"><section>'
 {
     buildkit/compile-xdocs |
     marked
