@@ -5,7 +5,7 @@
     ></div>
 
 I'm **Jaeho Shin**, a PhD candidate in [Computer Science at Stanford University][Stanford CS].
-You can find me at **[Gates 430][]** near where the [Hazy Group][] and [InfoLab][] members hang around, and reach me via email: **<tt>[Jaeho.Shin at Stanford EDU](mailto:Jaeho.Shin)</tt>**.
+You can find me at **[Gates 430][]** near where the [Hazy Group][] and [InfoLab][] members hang around, and reach me via email: **[Jaeho.Shin at Stanford EDU](mailto:Jaeho.Shin)**.
 
 I work with [Chris Ré][Christopher Ré] to study how we can do more productive development of *end-to-end knowledge base construction systems*, such as those built with [DeepDive][], by creating tools like [Mindtagger][].
 For Spring 2015 quarter, I'm TAing [CS346][] for the second time.
