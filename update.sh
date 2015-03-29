@@ -15,7 +15,7 @@ cat HEADER.html
 echo '</head><body lang="en"><section>'
 {
     buildkit/compile-xdocs |
-    marked
+    ./markdown.pl
 } <index.md
 echo '</section>'
 cat FOOTER.html
