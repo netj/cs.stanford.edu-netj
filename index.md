@@ -5,16 +5,16 @@
     ></div>
 
 I'm **Jaeho Shin**, a PhD candidate in [Computer Science at Stanford University][Stanford CS].
-You can find me at **[Gates 430][]** near where the [Hazy Group][] and [InfoLab][] members hang around, and reach me via email: **[Jaeho.Shin at Stanford EDU](mailto:Jaeho.Shin)**.
+You can find me at **[Gates 430][]** near where the [Hazy Group][] and [InfoLab][] members hang around and reach me via email: **[Jaeho.Shin at Stanford EDU](mailto:Jaeho.Shin)**.
 
 I work with [Chris Ré][Christopher Ré] to study how we can do more productive development of *end-to-end knowledge base construction systems*, such as those built with [DeepDive][], by creating tools like [Mindtagger][].
 For Spring 2015 quarter, I'm TAing [CS346][] for the second time.
 
 In the past, I worked closely with [Jennifer Widom][], [Andreas Paepcke][], [Semih Salihoglu][], and [Jiwon Seo][] on problems such as data management for computational experiments ([3X][]), debugging programs for distributed graph processing systems ([Graft][]), designing a domain-specific language for graph analysis ([Socialite][]), and compiling subgraph matching queries ([SmallGraphs][]).
 I was a course assistant for [CS245][] in Winter 2014, helping [Hector Garcia-Molina][] to add new MySQL assignments.
-Before coming to Stanford in 2011, I worked for [Samsung Electronics][] for a few years, after finishing my MS at [Seoul National University][SNU CSE] and BS at [KAIST][KAIST CS] in Korea.
+Before coming to Stanford in 2011, I worked for [Samsung Electronics][] for a few years after finishing my MS at [Seoul National University][SNU CSE] and BS at [KAIST][KAIST CS] in Korea.
 At Samsung, I worked on a wide range of research and development projects from prototyping tablet devices to creating software engineering tools for understanding and re-engineering legacy code.
-During [my master's][ROPAS page] with [Kwangkeun Yi][], I studied programming language theories and static program analysis techniques, and built a static array index overrun analyzer for C programs which became part of [Fasoo.com][]'s [Sparrow][].
+During [my master's program][ROPAS page] with [Kwangkeun Yi][], I studied programming language theories and static program analysis techniques and built a static array index overrun analyzer for C programs which became part of [Fasoo.com][]'s [Sparrow][].
 
 I enjoy writing code in my spare time.
 Some of my creations are
