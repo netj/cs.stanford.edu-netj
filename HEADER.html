@@ -39,7 +39,7 @@ body > section {
 }
 
 address {
-    font-size: 75%;
+    font-size: 80%;
     text-align: right;
 }
 
@@ -53,15 +53,36 @@ a:hover {
     border-bottom-color: #9d9573;
     border-bottom-style: solid;
 }
+
+
+/* Tweaks for mobile devices */
+@media only screen and (max-width: 568px) {
+body {
+    width: auto;
+    margin: 19px;
+}
+#photo {
+    width: 81px; height: 108px;
+    margin: 6px 12px 6px 0;
+}
+}
+@media only screen and (max-width: 568px) and (-webkit-min-device-pixel-ratio: 2)
+     , only screen and (max-width: 568px) and (min--moz-device-pixel-ratio: 2)
+     , only screen and (max-width: 568px) and (-o-min-device-pixel-ratio: 2/1)
+     , only screen and (max-width: 568px) and (min-device-pixel-ratio: 2) {
+#photo {
+    background-size: 81px auto;
+}
+}
 </style>
 <script>
 //<!--
-RATIO = 1 - 0.618; // Does "Golden Ratio" really make things look better?  Watch: http://youtu.be/4oyyXC5IzEE
+var RATIO = 1 - 0.618; // Does "Golden Ratio" really make things look better?  Watch: http://youtu.be/4oyyXC5IzEE
 window.onload =
 window.onresize =
 function resize() {
     document.body.style.marginTop =
-        Math.max(38, (RATIO * (window.innerHeight
+        Math.max(19, (RATIO * (window.innerHeight
                  - document.getElementsByTagName("section")[0].offsetHeight))) + "px";
     //console.log(document.body.style.marginTop);
 };
