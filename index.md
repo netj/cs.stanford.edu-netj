@@ -17,7 +17,7 @@ Before coming to Stanford in 2011, I worked for [Samsung Electronics][] for a fe
 At Samsung, I worked on a wide range of research and development projects from prototyping tablet devices to creating software engineering tools for understanding and re-engineering legacy code.
 During [my master's program][ROPAS page] with [Kwangkeun Yi][], I studied programming language theories and static program analysis techniques and built a static array index overrun analyzer for C programs which became part of [Fasoo.com][]'s [Sparrow][].
 
-I enjoy writing code and designing programs in my spare time.
+I enjoy writing code and designing programs both professionally and in my spare time.
 Some of my creations are
 [remocon][],
 [libzygote][],
