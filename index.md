@@ -72,7 +72,7 @@ For my publication record, please refer to my [Google Scholar page][].
 
 [Samsung Electronics]: http://www.samsung.com/
 [ROPAS page]: http://ropas.snu.ac.kr/~netj/
-[Sparrow]: http://en.fasoo.com/site/fasoo_eng/sourcecodeanalysis/sparrow.do
+[Sparrow]: http://sparrowfasoo.com/
 [Fasoo.com]: http://en.fasoo.com/
 [SNU CSE]: http://cse.snu.ac.kr/en "Department of Computer Science and Engineering, Seoul National University"
 [KAIST CS]: http://cs.kaist.ac.kr/ "Computer Science Department, Korea Advanced Institute of Science and Technology"
