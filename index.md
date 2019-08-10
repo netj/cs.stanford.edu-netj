@@ -4,20 +4,22 @@
     src="jaeho.infolab-2013.180x240.jpg"
     ></div>
 
-I'm **Jaeho Shin**, a PhD candidate in [Computer Science at Stanford University][Stanford CS].
-You can find me at **[Gates 430][]** near where the [Hazy Group][] and [InfoLab][] members hang around and reach me via email: **[Jaeho.Shin at Stanford EDU](mailto:Jaeho.Shin)**.
+I'm **Jaeho Shin**, an Apple engineer working on Knowledge Graph.
+If you share the passion in organizing the world's knowledge and using it to enrich everyone's lives, or building excellence in software engineering for machine learned and intelligent systems, please reach out to me via email: **[netj at CS.Stanford EDU](mailto:netj)**.
 
-I work with [Chris Ré][Christopher Ré] to study how we can do more productive development of *end-to-end knowledge base construction systems*, such as those built with [DeepDive][], by creating tools like [Mindtagger][].
-For Spring 2015 quarter, I'm TAing [CS346][] for the second time.
+I was a PhD candidate in [Computer Science at Stanford University][Stanford CS] where I spent most of my time with [Hazy Group][] and [InfoLab][] members until I moved to Lattice Data to continue working on [Accelerating Knowledge Base Construction][oral-exam-slides].
 
-In the past, I worked closely with [Jennifer Widom][], [Andreas Paepcke][], [Semih Salihoglu][], and [Jiwon Seo][] on problems such as data management for computational experiments ([3X][]), debugging programs for distributed graph processing systems ([Graft][]), designing a domain-specific language for graph analysis ([Socialite][]), and compiling subgraph matching queries ([SmallGraphs][]).
+I worked with [Chris Ré][Christopher Ré] to study how we can do more productive development of *end-to-end knowledge base construction systems*, such as those built with [DeepDive][], by creating tools like [Mindtagger][].
+For Spring 2015 and 2014 quarters, I helped running the [CS346][] database implementation course.
+Before that, I worked closely with [Jennifer Widom][], [Andreas Paepcke][], [Semih Salihoglu][], and [Jiwon Seo][] on problems such as data management for computational experiments ([3X][]), debugging programs for distributed graph processing systems ([Graft][]), designing a domain-specific language for graph analysis ([Socialite][]), and compiling subgraph matching queries ([SmallGraphs][]).
 I was a course assistant for [CS245][] in Winter 2014, helping [Hector Garcia-Molina][] to add new MySQL assignments.
 Before coming to Stanford in 2011, I worked for [Samsung Electronics][] for a few years after finishing my MS at [Seoul National University][SNU CSE] and BS at [KAIST][KAIST CS] in Korea.
 At Samsung, I worked on a wide range of research and development projects from prototyping tablet devices to creating software engineering tools for understanding and re-engineering legacy code.
 During [my master's program][ROPAS page] with [Kwangkeun Yi][], I studied programming language theories and static program analysis techniques and built a static array index overrun analyzer for C programs which became part of [Fasoo.com][]'s [Sparrow][].
 
-I enjoy writing code in my spare time.
+I enjoy writing code and designing programs in my spare time.
 Some of my creations are
+[remocon][],
 [libzygote][],
 [mkmimo][],
 [BuildKit][],
@@ -46,6 +48,7 @@ For my publication record, please refer to my [Google Scholar page][].
 [Jiwon Seo]: http://web.stanford.edu/~jiwon/
 [Kwangkeun Yi]: http://ropas.snu.ac.kr/~kwang/
 
+[oral-exam-slides]: https://speakerdeck.com/netj/accelerating-knowledge-base-construction "Accelerating Knowledge Base Construction"
 [Mindtagger]: http://git.io/mindtagger
 [DeepDive]: http://deepdive.stanford.edu/
 [Graft]: https://github.com/semihsalihoglu/graft#readme
@@ -55,6 +58,7 @@ For my publication record, please refer to my [Google Scholar page][].
 [CS346]: http://cs346.stanford.edu "Database System Implementation"
 [CS245]: http://cs245.stanford.edu "Database System Principles"
 
+[remocon]: https://github.com/netj/remocon#readme
 [KAIST File Archive]: http://ftp.kaist.ac.kr
 [libzygote]: https://github.com/netj/libzygote#readme
 [mkmimo]: https://github.com/netj/mkmimo#readme
