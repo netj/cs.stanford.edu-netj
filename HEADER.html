@@ -56,7 +56,7 @@ a:hover {
 
 
 /* Tweaks for mobile devices */
-@media only screen and (max-width: 568px) {
+@media only screen and (max-width: 618px) {
 body {
     width: auto;
     margin: 19px;
@@ -66,12 +66,18 @@ body {
     margin: 6px 12px 6px 0;
 }
 }
-@media only screen and (max-width: 568px) and (-webkit-min-device-pixel-ratio: 2)
-     , only screen and (max-width: 568px) and (min--moz-device-pixel-ratio: 2)
-     , only screen and (max-width: 568px) and (-o-min-device-pixel-ratio: 2/1)
-     , only screen and (max-width: 568px) and (min-device-pixel-ratio: 2) {
+@media only screen and (max-width: 618px) and (-webkit-min-device-pixel-ratio: 2)
+     , only screen and (max-width: 618px) and (min--moz-device-pixel-ratio: 2)
+     , only screen and (max-width: 618px) and (-o-min-device-pixel-ratio: 2/1)
+     , only screen and (max-width: 618px) and (min-device-pixel-ratio: 2) {
 #photo {
     background-size: 81px auto;
+}
+}
+
+@media only screen and (min-width: 1018px) {
+#photo {
+    margin-left: -200px;
 }
 }
 </style>
